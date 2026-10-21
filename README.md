@@ -7,7 +7,7 @@ Salma Zaime: BI course, 5 TD and 2 TP projects (one repository per project).
 | # | Project | Repository | Live demo |
 |---|---------|------------|-----------|
 | TD1 | EU capitals sustainable vacation dashboard (automated pipeline: Open-Meteo API, GitHub Actions, GitHub Pages) | [eu-capitals-dashboard](https://github.com/salmazaime/eu-capitals-dashboard) | [Dashboard](https://salmazaime.github.io/eu-capitals-dashboard/) |
-| TD2 | _coming soon_ | | |
+| TD2 | Smart Mobility Le Mans: SETRAM public transport supply and delay dashboard (automated pipelines: static GTFS, GTFS-RT, GitHub Actions, GitHub Pages) | https://github.com/salmazaime/smart-mobility-lemans/tree/main | https://salmazaime.github.io/smart-mobility-lemans/ |
 | TD3 | _coming soon_ | | |
 | TD4 | _coming soon_ | | |
 | TD5 | _coming soon_ | | |
