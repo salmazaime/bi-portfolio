@@ -10,8 +10,7 @@ Salma Zaime: BI course, 5 TD and 2 TP projects (one repository per project).
 | TD2 | Smart Mobility Le Mans: SETRAM public transport supply and delay dashboard (automated pipelines: static GTFS, GTFS-RT, GitHub Actions, GitHub Pages) | [smart-mobility-lemans](https://github.com/salmazaime/smart-mobility-lemans) | [Dashboard](https://salmazaime.github.io/smart-mobility-lemans/) |
 | TD3 | _coming soon_ | | |
 | TD4 | CO2 time series: collection, cleaning, smoothing and honest projection (Open-Meteo Air Quality API, GitHub Actions, GitHub Pages) | [td-time-series](https://github.com/salmazaime/td-time-series) | [Dashboard](https://salmazaime.github.io/td-time-series/) |
-| TD5 | _coming soon_ | | |
-
+| TD5 | Logistics network dashboards: three roles, three KPIs (CO2, cost, network scenarios) from one French warehouse network (Chart.js, GitHub Actions, GitHub Pages) | [td-logistics-dashboards](https://github.com/salmazaime/td-logistics-dashboards) | [Dashboard](https://salmazaime.github.io/td-logistics-dashboards/) |
 ## TP (lab work)
 
 | # | Project | Repository | Live demo |
